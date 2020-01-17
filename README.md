@@ -10,3 +10,4 @@ This is your first GitHub based CBA Assignment.
 3. CREATE the assignment file (.txt) in your computer
 4. Open the assignment repository in GitHub and UPLOAD your assignment file
 5. Create a PULL REQUEST on the original repository to turn in the assignment
+6. And it is done!
