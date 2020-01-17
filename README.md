@@ -6,8 +6,8 @@ This is your first GitHub based CBA Assignment.
 
 ## How to Submit your Assignments:
 1. FORK the repository
-2. CLONE the repository to your computer (not required. Do it if you want to have the assignment instructions in your local space)
-3. CREATE the assignment file (.txt) in your computer
+2. CLONE the repository to your computer.
+3. EDIT the assignment file (.txt) in your computer. (PLEASE DO NOT CHANGE THE NAME OF THE FILE)
 4. Open the assignment repository in GitHub and UPLOAD your assignment file
-5. Create a PULL REQUEST on the original repository to turn in the assignment
-6. And it is done!
+5. Submit the URL to your GitHub repository that contains the completed assignment in the Excel sheet shared.
+
