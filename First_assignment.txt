@@ -1,7 +1,5 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
-
-
-
+i want to take up this course because it is interesting to know how computer program help in predicting and understanding biological data
 
 
 
@@ -10,3 +8,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+i would like to learn and explore the basics of bioinformatics and its applications.
+i would also like to learn computer programming.
